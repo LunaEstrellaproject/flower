@@ -26,7 +26,7 @@ body{
         text-shadow: 0 0 12px #39c6d6, 0 0 50px #39c6d6, 0 0 100px #39c6d6;
     }
     10%, 90%{
-        color: #ffc0cb;
+        color: #111;
         text-shadow: none;
     }
 }
@@ -71,6 +71,21 @@ body{
 }
 .greetings > span:nth-child(15){
     animation-delay: .6s;
+}
+.greetings > span:nth-child(16){
+    animation-delay: .8s;
+}
+.greetings > span:nth-child(17){
+    animation-delay: .2s;
+}
+.greetings > span:nth-child(18){
+    animation-delay: .4s;
+}
+.greetings > span:nth-child(19){
+    animation-delay: .6s;
+}
+.greetings > span:nth-child(20){
+    animation-delay: .8s;
 }
 
 .description{
